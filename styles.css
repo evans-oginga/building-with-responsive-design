@@ -66,7 +66,11 @@ body {
     height: 475px;
     margin: 12px;
     background-image: url("img/bk1.jpg");
-    background-color: yellowgreen;
+    background-color: white;
+}
+.container1 h1{
+    padding-top: 300px;
+    color: white;
 }
 .container2{
     width: 500px;
@@ -76,13 +80,21 @@ body {
     /*background-color: violet;*/
     padding: 10px;
 }
+.container2 h1{
+    padding-top: 100px;
+    color: white;
+}
 .container3{
     width: 500px;
     height: 225px;
     margin: 12px;
     background-image: url("img/bk3.jpg");
-    background-color: blueviolet;
+    background-color: white;
     padding: 10px;
+}
+.container3 h1{
+    padding-top: 100px;
+    color: white;
 }
 
 .row{
@@ -92,7 +104,7 @@ body {
 .row-item{
     width: 22%;
     height: 300px;
-    background-color: burlywood;
+    background-color: white;
     margin: 10px;
     padding: 10px;
     box-sizing: border-box;
@@ -108,7 +120,7 @@ body {
 .row1-item{
     width: 33%;
     height: 700px;
-    background-color: blue;
+    background-color: white;
     margin: 10px;
 }
 .row1-item h4{
@@ -126,6 +138,15 @@ body {
 }
 .row-item img{
     width: 270px;
+}
+.misc{
+    color: red;
+    padding: 20px;
+}
+.misc1{
+    padding-top: 200px;
+    color: black;
+    font-size: 29px;
 }
 
 /*
